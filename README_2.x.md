@@ -4,6 +4,7 @@
 ## 直接看效果图，最下面有各个版本的效果图
 <img width="300"  src="https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/Screenshot_6.0.gif"/>
 
+
 ## 使用 
 > android studio
 

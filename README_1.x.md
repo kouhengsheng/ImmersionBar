@@ -6,6 +6,7 @@
 	compile 'com.gyf.barlibrary:barlibrary:1.2.2'
 eclipse用户直接下载jar包
 
+
 [barlibrary-1.2.2.jar](https://github.com/gyf-dev/ImmersionBar/blob/master/jar/barlibrary-1.2.2.jar) 
 
 历史版本
